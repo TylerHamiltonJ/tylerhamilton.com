@@ -7,6 +7,6 @@ description: Auspol meets AI meets The Simpsons
 featuredImage: /assets/simpsons-deepfake.png
 ---
 
-aksnd sk djk ks djskjdsj jd sjk dkj jk
+More information about this awesome project is coming soon!
 
 ![Triple J - Hack](/assets/deepfake-headline.png)

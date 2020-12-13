@@ -7,4 +7,4 @@ description: Gag Your MP
 featuredImage: /assets/sebastiaan-stam-5hbrem-5mnq-unsplash.jpg
 ---
 
-aksnd sk djk ks djskjdsj jd sjk dkj jk
+More information about this awesome project is coming soon!

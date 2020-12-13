@@ -7,6 +7,8 @@ description: Dan Andrews, But AI
 featuredImage: /assets/dandrews-ai.jpg
 ---
 
+More information about this awesome project is coming soon!
+
 ![Dan](/assets/dan/1.jpeg)
 ![Dan](/assets/dan/2.jpeg)
 ![Dan](/assets/dan/3.jpeg)
