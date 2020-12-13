@@ -79,8 +79,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Home`,
-        short_name: `Home`,
+        name: `Tyler Hamilton`,
+        short_name: `Tyler Hamilton`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
