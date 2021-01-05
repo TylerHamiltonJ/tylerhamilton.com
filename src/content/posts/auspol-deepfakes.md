@@ -12,6 +12,8 @@ In this project, I've used [Rudrabha's Wav2Lip library](https://github.com/Rudra
 
 This project came during about during the US election when the Trump campaign posted a deepfake of Joe Biden, so the project eventually evolved to include deepfakes of both Joe Biden and Donald Trump.
 
+Most people still think Deepfakes are quite choppy, and something that may be a problem in the distant future, however I believe that problem has come even quicker than that. The hope of this project is to educate people that Deepfake's are here now, and to educate people on how to spot a deepfake. This is similar to how our society needed to train ourselves on convincing photoshops.
+
 Collectively, these deepfakes garnered over 200,000 views on YouTube, and were viewed millions of times across Facebook. 
 
 [Read my thoughts on the project on Triple J's Hack](https://www.abc.net.au/triplej/programs/hack/simpsons-auspol-deepfake/12678978).
