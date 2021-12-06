@@ -2,9 +2,11 @@ import React from "react"
 import { graphql, Link } from "gatsby"
 import Img from "gatsby-image"
 import { RiArrowRightSLine } from "react-icons/ri"
+import {Bot} from "../components/chatbot"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
+import BrandWall from "../components/brand-wall"
 import SEO from "../components/seo"
 
 export const pageQuery = graphql`
@@ -49,16 +51,11 @@ const HomePage = ({ data }) => {
           <Link to={frontmatter.cta.ctaLink} className="button">{frontmatter.cta.ctaText}<span class="icon -right"><RiArrowRightSLine/></span></Link>
         </div>
         <div>
-          {Image ? (
-            <Img 
-              fluid={Image} 
-              alt={frontmatter.title + ' - Featured image'}
-              className="featured-image"
-            />
-          ) : ""}
+        <Bot />
         </div>
       </div>
       <BlogListHome/>
+      <BrandWall/>
 		</Layout>
 	)
 }
